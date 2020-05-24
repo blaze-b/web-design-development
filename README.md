@@ -14,6 +14,7 @@ Core Web Design Elements are,
  e) '==' for the checking of values
  f) It also helps in animating
 
+![alt text](https://github.com/brianblaze14/web-design-development/blob/master/images/word_press_theme.PNG)
 
  # Creating websites requires disciplines
 
